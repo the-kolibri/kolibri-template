@@ -1,6 +1,6 @@
 # Kolibri Template
 
-![Code Name](https://img.shields.io/badge/Code%20Name-v0.0.0-lightgrey)
+![Code Name](https://img.shields.io/badge/Picaflor-v0.0.0-blue)
 
 ## Repository Template
 
@@ -32,7 +32,9 @@ Ready to clone and start a new project with the basic standards of the KN develo
 * Base Instructions
 * Code Names list (5 min)
 
-### Template
+---
+
+### Begin of Template
 
 ```plain
 # Repo Title
@@ -55,4 +57,19 @@ Ready to clone and start a new project with the basic standards of the KN develo
     v4.0.0 Codename E
     v5.0.0 Codename F
     ```
+```
+
+### End of Template
+
+---
+
+### Codenames
+
+```plain
+    v0.0.0 Picaflor
+    v1.0.0 Colibrí
+    v2.0.0 Tominejo
+    v3.0.0 Chupaflor
+    v4.0.0 Tucusito
+    v5.0.0 Quinde
 ```

@@ -1,7 +1,7 @@
 ---
-name: ✍🏻 Issue Name
-about: Description for the Issue template type
-title: "Custom Issue Title"
-labels: label 1, label 2
+name: ✍🏻 New Template Feature
+about: Add a new Repo Template Feature
+title: "Add "
+labels: ⚙️ Settings, 📦 Picaflor v0.0.0
 assignees: the-kolibri
 ---
