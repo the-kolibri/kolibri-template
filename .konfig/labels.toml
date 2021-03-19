@@ -1,0 +1,84 @@
+["⏫ Code Elevation"]
+color = "1d76db"
+name = "⏫ Code Elevation"
+description = "Minor merge without breaking changes"
+
+["⚙️ Settings"]
+color = "6b759b"
+name = "⚙️ Settings"
+description = "Basic configuration of the project"
+
+["🎨 Design"]
+color = "281a7f"
+name = "🎨 Design"
+description = "Design related"
+
+["🏗 Develop"]
+color = "0e8a16"
+name = "🏗 Develop"
+description = "Code in development stage"
+
+["👨🏻‍💻 Development"]
+color = "c1f745"
+name = "👨🏻‍💻 Development"
+description = "Development related"
+
+["👻 Metadata"]
+color = "a6a7b0"
+name = "👻 Metadata"
+description = "SEO and meta-information related code"
+
+["💅🏻 CSS"]
+color = "4f44e5"
+name = "💅🏻 CSS"
+description = "CSS styles related code"
+
+["💪🏻 Javascript"]
+color = "fef2c0"
+name = "💪🏻 Javascript"
+description = "Javascript related code"
+
+["📜 Shell Script"]
+color = "DEE8F2"
+name = "📜 Shell Script"
+description = "Scripts related"
+
+["📝 Content"]
+color = "cba8f7"
+name = "📝 Content"
+description = "Content related data"
+
+["📦 Release Name v0.0.0"]
+color = "f7e1bb"
+name = "📦 Release Name v0.0.0"
+description = "Codename of the release"
+
+["🚀 Deploy"]
+color = "0e8a16"
+name = "🚀 Deploy"
+description = "Code ready to production stage"
+
+["🚨 Fix"]
+color = "b60205"
+name = "🚨 Fix"
+description = "General fix on the bundle"
+
+["🛠 Refactor"]
+color = "0052cc"
+name = "🛠 Refactor"
+description = "Changes and optimization of the Code and Content"
+
+["🤖 Schemas"]
+color = "6c6d78"
+name = "🤖 Schemas"
+description = "Rich data integration"
+
+["🦴 HTML"]
+color = "fbca04"
+name = "🦴 HTML"
+description = "Markup HTML related code"
+
+["🧨 Bug Fix"]
+color = "d93f0b"
+name = "🧨 Bug Fix"
+description = "Specific fix of the bundle"
