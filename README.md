@@ -2,6 +2,8 @@
 
 ![Code Name](https://img.shields.io/badge/Picaflor-v0.0.0-blue)
 
+<img src="https://kolibri-storage-github.s3.amazonaws.com/covers/readmes/cover-kolibri-template.png">
+
 ## Repository Template
 
 This is a Kolibri's repository template for new projects. 
