@@ -1,6 +1,6 @@
 # Kolibri Template
 
-![Code Name](https://img.shields.io/badge/Picaflor-v0.0.0-blue)
+![Code Name](https://img.shields.io/badge/Colibri-v1.0.0-green)
 
 <img src="https://kolibri-storage-github.s3.amazonaws.com/covers/readmes/cover-kolibri-template.png">
 
