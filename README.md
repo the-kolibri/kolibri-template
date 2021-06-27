@@ -1,6 +1,8 @@
 # Kolibri Template
 
-![Code Name](https://img.shields.io/badge/Picaflor-v0.0.0-blue)
+![Code Name](https://img.shields.io/badge/Colibri-v1.0.0-green)
+
+<img src="https://kolibri-storage-github.s3.amazonaws.com/covers/readmes/cover-kolibri-template.png">
 
 ## Repository Template
 
@@ -72,7 +74,7 @@ Ready to clone and start a new project with the basic standards of the KN develo
 
 <!-- License -->
 
-<p align="center" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/the-kolibri/kolibri-template">Kolibri Repository Template</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://twitter.com/The_Kolibri">Kolibri</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
+<p align="center" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/the-kolibri/kolibri-template">Kolibri Repository Template</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://twitter.com/The_Kolibri">Kolibri</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0 <img width="12px" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"> <img width="12px" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
 ```
 
 ### End of Template
@@ -98,4 +100,4 @@ Ready to clone and start a new project with the basic standards of the KN develo
 
 ---
 
-<p align="center" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/the-kolibri/kolibri-template">Kolibri Repository Template</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://twitter.com/The_Kolibri">Kolibri</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
+<p align="center" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/the-kolibri/kolibri-template">Kolibri Repository Template</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://twitter.com/The_Kolibri">Kolibri</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0 <img width="12px" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"> <img width="12px" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
